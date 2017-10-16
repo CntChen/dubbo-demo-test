@@ -101,8 +101,11 @@ Hello world, response form provider: 10.75.94.35:20880
 ==========
 ```
 
-
 [#silent links]:#
 [how to fix this bug]: https://stackoverflow.com/questions/18747134/getting-cant-assign-requested-address-java-net-socketexception-using-ehcache
+
+## References
+*  Apache Maven Assembly Plugin Usage 用于将依赖打包为一个 jar
+> https://maven.apache.org/plugins/maven-assembly-plugin/usage.html
 
 ## EOF
